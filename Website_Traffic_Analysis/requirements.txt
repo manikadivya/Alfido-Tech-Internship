@@ -1,0 +1,59 @@
+## Requirements
+
+The project requirements include:
+
+### 1. Data Cleaning and Preprocessing
+- Load and inspect website traffic/log data
+- Handle missing values and duplicate records
+- Clean and transform data into an analysis-ready format
+- Perform feature engineering for analysis
+
+### 2. Website Traffic Metrics Calculation
+Calculate important website performance metrics:
+
+- Total users
+- Total sessions
+- Bounce rate
+- Average session duration
+
+### 3. User Journey Analysis
+Analyze visitor navigation behavior:
+
+- Identify user flow patterns
+- Analyze top landing pages
+- Identify exit pages
+- Understand visitor drop-off points
+
+### 4. Traffic Source Analysis
+Analyze different sources bringing users to the website:
+
+- Referral sources
+- Direct traffic
+- Search traffic
+- Marketing channels
+
+### 5. Data Visualization
+Create visualizations to represent insights:
+
+- Traffic trends over time
+- Top landing pages
+- Exit page performance
+- Traffic source distribution
+- User flow visualization
+
+### 6. Business Recommendations
+Provide actionable recommendations for Alfido Tech to:
+
+- Improve user engagement
+- Reduce bounce rate
+- Optimize landing pages
+- Improve website navigation
+- Increase conversions
+
+### 7. Deliverables
+The final submission should contain:
+
+- Jupyter Notebook with complete analysis and visualizations
+- Executive Report PDF
+- Charts and visual outputs
+- Business insights and recommendations
